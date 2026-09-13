@@ -663,7 +663,7 @@ export const EnvelopeInvitation: React.FC<EnvelopeInvitationProps> = ({
                         }`}
                       >
                         <Check className="w-4 h-4 stroke-[2.5]" />
-                        <span>✓ Will Attend</span>
+                        <span>✓ I'm Eager to attend</span>
                       </button>
 
                       <button
@@ -680,7 +680,7 @@ export const EnvelopeInvitation: React.FC<EnvelopeInvitationProps> = ({
                         }`}
                       >
                         <X className="w-4 h-4 stroke-[2.5]" />
-                        <span>✕ Will Not Attend</span>
+                        <span>✕ Sorry, I will miss it</span>
                       </button>
                     </div>
 
